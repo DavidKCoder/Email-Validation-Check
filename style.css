@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url(background.png);
+  background: url(./img/background.png);
   position: relative;
   background-position: center;
   background-size: cover;
@@ -62,7 +62,7 @@ h3 {
   top: 8px;
   width: 23px;
   height: 23px;
-  background: url(invalid.png);
+  background: url(./img/invalid.png);
   background-size: cover;
   z-index: 1000;
 }
@@ -74,7 +74,7 @@ h3 {
   top: 4px;
   width: 25px;
   height: 28px;
-  background: url(valid.png);
+  background: url(./img/valid.png);
   background-size: cover;
   z-index: 1000;
 }
